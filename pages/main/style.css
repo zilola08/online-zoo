@@ -10,6 +10,7 @@ body {
     max-width: 100%;
     height: 100vh;
     transition: all 500ms ease-in-out;
+    background-color: azure;
 }
 
 .header {
@@ -1174,6 +1175,7 @@ a.nav-burger-link:hover {
         position: absolute;
         top: 3806.88px;
         right: 0;
+        display: none;
     }
 
     .testi-leaf-aside-320 {
