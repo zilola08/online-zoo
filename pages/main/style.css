@@ -1175,6 +1175,7 @@ a.nav-burger-link:hover {
         position: absolute;
         top: 3806.88px;
         right: 0;
+        display: none;
     }
 
     .testi-leaf-aside-320 {
