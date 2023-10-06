@@ -77,7 +77,7 @@ amount.addEventListener('input',function () {
 })
 
 
-window.onresize = function () { location.reload(); }
+// window.onresize = function () { location.reload(); }
 
 const tablet = window.matchMedia('(max-width: 641px)');
 checkIfTablet();
