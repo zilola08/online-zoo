@@ -81,7 +81,7 @@ arrowRight.addEventListener('click', moveRight)
 
 // MEDIA QUERIES
 
-window.onresize = function () { location.reload(); }
+// window.onresize = function () { location.reload(); }
 
 
 const smallDesktop = window.matchMedia('(min-width: 1000px) and (max-width: 1559px)');
